@@ -11,7 +11,7 @@ The SQL dump is compressed into a .gz (gzip) file to optimize downloading. It do
 ## Installation
 
 ### Upload via WordPress Admin
-1. Download the plugin from [GitHub Repository](https://github.com/MEStackCodes/WPSQLExport).
+1. Download the plugin from [GitHub Repository](https://github.com/MEStackCodes/WP-SQL-DatabaseExport).
 2. Compress the folder `wp-sql-database-export` to zip format.
 3. Go to your WordPress admin panel.
 4. Navigate to **Plugins > Add New**.
